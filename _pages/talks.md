@@ -10,8 +10,17 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
 {% endif %}
+2021
+------
+<ul>
+{% for post in site.talks reversed %}
+  {% if post.year == 2021 %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+</ul>
 
-2020 
+2020
 ------
 <ul>
 {% for post in site.talks reversed %}
