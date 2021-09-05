@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-!! *SOME NEWS : I took a break of some months to get some fresh air, currently cycling through France and not digitally responsive :)*
+!! *NEWS : I took a break of some months to get some fresh air, currently cycling through France and not digitally responsive :)*
 
 I'm a research scientist at <a href="https://chordify.net/">Chordify</a> interested in recommender systems, graph theory and music information retrieval.
 
