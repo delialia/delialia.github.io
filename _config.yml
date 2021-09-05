@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Delia Fano Yela"
 title_separator          : "-"
 name                     : &name "Delia Fano Yela"
-description              : &description "Research scientist"
+description              : &description "Research scientist / Vocalist"
 url                      : https://delialia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "delialia/delialia.github.io"
@@ -104,7 +104,7 @@ author:
   linkedin         : "https://www.linkedin.com/in/delia-fano-yela"
   orcid            : "http://orcid.org/0000-0001-7999-3241"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://soundcloud.com/user-957600107"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
