@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on <a href="https://scholar.google.co.uk/citations?user=fUp2rucAAAAJ">my Google Scholar profile</a>.
 
-You can download my thesis *Signal Processing and Graph Theory techniques for Sound Source Separation* {% include test-thesis.html %}
+You can download my thesis *Signal Processing and Graph Theory techniques for Sound Source Separation* {% include test-thesis.html %}.
 
 
 {% include base_path %}
