@@ -85,7 +85,7 @@ author:
   avatar           : "profile.png"
   bio              : "Research Scientist"
   location         : "Utrecht, NL"
-  employer         : "Chordify"
+  employer         : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=fUp2rucAAAAJ"
   email            : "delia@chordify.net"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
