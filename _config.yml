@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Delia Fano Yela"
   avatar           : "profile.png"
-  bio              : "Project Officer"
-  location         : "Joint Research Centre"
+  bio              : "Joint Research Centre Project Officer"
+  location         :
   employer         : "European Comission"
   googlescholar    : "https://scholar.google.co.uk/citations?user=fUp2rucAAAAJ"
   email            : "delia.fano@gmail.com"
