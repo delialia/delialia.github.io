@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-!! *NEWS : I took a break of some months to get some fresh air, cycling through France, hiking in Spain, Georgia... and not so digitally responsive :)*
 
- Worked as a research scientist at <a href="https://chordify.net/">Chordify</a> interested in recommender systems, graph theory and music information retrieval.
+Recently joined the European Comission Ispra's Joint Research Centre (JRC) as scientific project officer to carry out research in the area of trustworthy AI, including on fairness, transparency, human oversight and social well-being of AI systems and their impact on fundamental rights. 
+
+Worked as a research scientist at <a href="https://chordify.net/">Chordify</a> interested in recommender systems, graph theory and music information retrieval.
 
 I obtained my PhD in Computer Science from the Centre for Digital Music (C4DM) at Queen Mary University of London, where I worked on signal processing and graph theory methods for sound source separation and music analysis under the supervision of Prof. Mark Sandler and <a href="http://www.mcld.co.uk">Dr. Dan Stowell</a> (and previously Dr. Sebastian Ewert). I'm particularly interested in similarity and representations of music signals.
 
