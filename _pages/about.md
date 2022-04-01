@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Recently joined the European Comission Ispra's Joint Research Centre (JRC) as a scientific project officer to carry out research in the area of trustworthy AI, including on fairness, transparency, human oversight and social well-being of AI systems and their impact on fundamental rights. 
+Recently joined the European Comission Ispra's Joint Research Centre (JRC) as a scientific project officer to carry out research in the area of trustworthy AI, including fairness, transparency, human oversight and social well-being of AI systems and their impact on fundamental rights. 
 
 Worked as a research scientist at <a href="https://chordify.net/">Chordify</a> interested in recommender systems, graph theory and music information retrieval.
 
