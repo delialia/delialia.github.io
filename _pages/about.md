@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-
-Hi there! I'm Delia. Currently I'm employed by the European Commission to give technical advice to policymakers and standardisers on different aspects of AI as well as to carry out research in the area of trustworthy AI and algorithm auditing. Nowadays mainly focusing on the operationalisation of the new Digital Services Act and on the preparatory standardisation work for the upcoming AI Act.
+Currently I'm employed by the European Commission to give technical advice to policymakers and standardisers on different aspects of AI as well as to carry out research in the area of trustworthy AI and algorithm auditing. Nowadays mainly focusing on the operationalisation of the new Digital Services Act and on the preparatory standardisation work for the upcoming AI Act.
 I'm part of the Joint Research Centre and <a href="https://algorithmic-transparency.ec.europa.eu/index_en"> European Centre for Algorithmic Transparency</a>. I'm interested in the impact of AI systems on social well-being and fundamental rights.
 
-Worked as a research scientist at <a href="https://chordify.net/">Chordify</a> interested in recommender systems, graph theory and music information retrieval.
+Previously I eorked as a research scientist at <a href="https://chordify.net/">Chordify</a> interested in recommender systems, graph theory and music information retrieval.
 
-I obtained my PhD in Computer Science from the Centre for Digital Music (C4DM) at Queen Mary University of London, where I worked on signal processing and graph theory methods for sound source separation and music analysis under the supervision of Prof. Mark Sandler and <a href="http://www.mcld.co.uk">Dr. Dan Stowell</a> (and previously Dr. Sebastian Ewert). I'm particularly interested in similarity and representations of music signals.
+I obtained my PhD in Computer Science from the Centre for Digital Music (C4DM) at Queen Mary University of London, where I worked on machine learning, signal processing and graph theory methods for sound source separation and music analysis under the supervision of Prof. Mark Sandler and <a href="http://www.mcld.co.uk">Dr. Dan Stowell</a> (and previously Dr. Sebastian Ewert).
 
 Before starting the PhD in London, I received my masters degree in Music & Technology (MSc) from the <a href="https://csm.cit.ie/">Cork School of Music</a> and was awarded with the highest-placed taught masters in Music & Technology CSM prize in 2015. My thesis on noise reduction using sound source separation was supervised by Dr. Derry FitzGerald.
 
