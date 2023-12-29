@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Recently joined the European Comission Ispra's Joint Research Centre (JRC) as a scientific project officer to carry out research in the area of trustworthy AI, including fairness, transparency, human oversight and social well-being of AI systems and their impact on fundamental rights. 
+
+Hi there! I'm Delia. Currently I'm employed by the European Commission to give technical advice to policymakers and standardisers on different aspects of AI as well as to carry out research in the area of trustworthy AI and algorithm auditing. Nowadays mainly focusing on the operationalisation of the new Digital Services Act and on the preparatory standardisation work for the upcoming AI Act.
+I'm part of the Joint Research Centre and <a href="https://algorithmic-transparency.ec.europa.eu/index_en"> European Centre for Algorithmic Transparency</a>. I'm interested in the impact of AI systems on social well-being and fundamental rights.
 
 Worked as a research scientist at <a href="https://chordify.net/">Chordify</a> interested in recommender systems, graph theory and music information retrieval.
 
