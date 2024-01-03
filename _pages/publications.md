@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-This page is not always up to date, sorry!
-
 You can also find my articles on <a href="https://scholar.google.co.uk/citations?user=fUp2rucAAAAJ">my Google Scholar profile</a>.
 
 You can download **my thesis** *Signal Processing and Graph Theory techniques for Sound Source Separation* {% include test-thesis.html %}.
