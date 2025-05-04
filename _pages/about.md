@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Currently I work as an AI researcher for the Research Institute of Sweden (RISE) and I am based in the lovely city of Lund. I am involved in many different types of projects and I usually bring AI expertise to a multidisciplinary table. I work with academia, industry, policymakers and civil society. Interested in low-tech ethical AI for good.
 
-Currently I'm employed by the European Commission to give technical advice to policymakers and standardisers on different aspects of AI as well as to carry out research in the area of trustworthy AI and algorithm auditing. Nowadays mainly focusing on the operationalisation of the new Digital Services Act and on the preparatory standardisation work for the upcoming AI Act.
-I'm part of the Joint Research Centre and <a href="https://algorithmic-transparency.ec.europa.eu/index_en"> European Centre for Algorithmic Transparency</a>. I'm interested in the impact of AI systems on social well-being and fundamental rights.
+Before I was employed by the European Commission to give technical advice to policymakers and standardisers on different aspects of AI as well as to carry out research in the area of trustworthy AI and algorithm auditing. I mainly focused on research for the enforcement of the new Digital Services Act and on the preparatory standardisation work of the AI Act.
+I was part of the Joint Research Centre and <a href="https://algorithmic-transparency.ec.europa.eu/index_en"> European Centre for Algorithmic Transparency</a>. I am interested in the impact of AI systems on social well-being and fundamental rights, and continue to work on this research line on the detection of disinformation in social media. 
 
-Previously I worked as a research scientist at <a href="https://chordify.net/">Chordify</a> interested in recommender systems, graph theory and music information retrieval.
+Previously I worked as a research scientist at <a href="https://chordify.net/">Chordify</a> looking at the intersection of recommender systems, graph theory and music information retrieval.
 
 I obtained my PhD in Computer Science from the Centre for Digital Music (C4DM) at Queen Mary University of London, where I worked on machine learning, signal processing and graph theory methods for sound source separation and music analysis under the supervision of Prof. Mark Sandler and <a href="http://www.mcld.co.uk">Dr. Dan Stowell</a> (and previously Dr. Sebastian Ewert).
 
