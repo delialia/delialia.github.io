@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Delia Fano Yela"
 title_separator          : "-"
 name                     : &name "Delia Fano Yela"
-description              : &description "Project Officer"
+description              : &description "AI Researcher"
 url                      : https://delialia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "delialia/delialia.github.io"
@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Delia Fano Yela"
   avatar           : "profile.png"
-  bio              : "Senior researcher JRC Project Officer"
+  bio              : "Senior AI Researcher"
   location         :
-  employer         : "European Comission"
+  employer         : "RISE"
   googlescholar    : "https://scholar.google.co.uk/citations?user=fUp2rucAAAAJ"
-  email            : "delia.fano-yela@ec.europa.eu"
+  email            : "delia.fano.yela@ri.se"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
