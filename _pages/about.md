@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Currently I work as an AI researcher for the Research Institute of Sweden (RISE) and I am based in the lovely city of Lund. I am involved in many different types of projects and I usually bring AI expertise to a multidisciplinary table. I work with academia, industry, policymakers and civil society. Interested in low-tech ethical AI for good.
+Currently I work as an AI researcher for the Research Institutes of Sweden (RISE) and I am based in the lovely city of Lund. I am involved in many different types of projects and I usually bring AI expertise to a multidisciplinary table. I work with academia, industry, policymakers and civil society. Interested in low-tech ethical AI for good.
 
 Before I was employed by the European Commission to give technical advice to policymakers and standardisers on different aspects of AI as well as to carry out research in the area of trustworthy AI and algorithm auditing. I mainly focused on research for the enforcement of the new Digital Services Act and on the preparatory standardisation work of the AI Act.
 I was part of the Joint Research Centre and <a href="https://algorithmic-transparency.ec.europa.eu/index_en"> European Centre for Algorithmic Transparency</a>. I am interested in the impact of AI systems on social well-being and fundamental rights, and continue to work on this research line on the detection of disinformation in social media. 
