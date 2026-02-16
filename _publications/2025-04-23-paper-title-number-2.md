@@ -1,10 +1,10 @@
 ---
 title: "Grazing Detection using Deep Learning and Sentinel-2 Time Series Data"
 collection: publications
-permalink: /publication/2025-25-07-paper-title-number-2
+permalink: /publication/2025-07-25-paper-title-number-2
 excerpt: '- '
 type: published
-date: 2025-25-07
+date: 2025-07-25
 year: 2025
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2510.14493?'
