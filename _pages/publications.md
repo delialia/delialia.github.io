@@ -11,6 +11,21 @@ You can download **my thesis** *Signal Processing and Graph Theory techniques fo
 
 {% include base_path %}
 
+
+2025
+------
+<ul>
+{% for post in site.publications reversed %}
+  {% if post.year == 2025 and post.type == "published" %}
+    {% include archive-single-publication.html %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+2024
+------
+:baby:
+
 2023
 ------
 <ul>
