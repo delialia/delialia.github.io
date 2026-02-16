@@ -1,7 +1,7 @@
 ---
 title: "How to investigate algorithmic-driven risks in online platforms and search engines? A narrative review through the lens of the EU Digital Services Act"
 collection: publications
-permalink: /publication/2025-04-23-paper-title-number-1
+permalink: /publication/2025-25-07-paper-title-number-1
 excerpt: '- '
 type: published
 date: 2025-25-07
